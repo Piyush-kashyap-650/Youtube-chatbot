@@ -1,4 +1,4 @@
-🎥 YouTube RAG Chatbot with Memory 
+#🎥 YouTube RAG Chatbot with Memory 
 🚀 Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that allows users to interact with YouTube videos conversationally.
