@@ -1,0 +1,6 @@
+gradio
+faiss-cpu
+groq
+youtube-transcript-api
+langchain
+requests
